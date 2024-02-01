@@ -53,24 +53,29 @@
 
 ## 🌐 Socials:
 
+<h2>🌐 Connect with Me</h2>
+
 <div style="display: flex; gap: 10px;">
-  <!-- Instagram Badge -->
+  <!-- Instagram Icon -->
   <a href="https://www.instagram.com/khushijain5519" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://iconduck.com/icons/svg/instagram.svg" alt="Instagram" width="30" height="30">
   </a>
 
-  <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/khushi-jain-834844206" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-
-  <!-- Twitter Badge -->
+  <!-- Twitter (X) Icon -->
   <a href="https://twitter.com/KHUSHIJAIN5519" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    <img src="https://iconduck.com/icons/svg/twitter-x.svg" alt="Twitter" width="30" height="30">
+  </a>
+
+  <!-- LeetCode Icon -->
+  <a href="https://leetcode.com/Khushi_jain_2001" target="_blank" style="text-decoration: none;">
+    <img src="https://iconduck.com/icons/svg/leetcode.svg" alt="LeetCode" width="30" height="30">
+  </a>
+
+  <!-- LinkedIn Icon -->
+  <a href="https://www.linkedin.com/in/khushi-jain-834844206" target="_blank" style="text-decoration: none;">
+    <img src="https://iconduck.com/icons/svg/linkedin.svg" alt="LinkedIn" width="30" height="30">
   </a>
 </div>
-
-
 
 # 💻 Tech Stack:
 

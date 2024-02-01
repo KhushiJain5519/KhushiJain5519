@@ -55,7 +55,75 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/KhushiJain5519) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Khushi Jain) 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+<h2>🛠️ Tech Stack</h2>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <!-- C++ Badge with custom logo -->
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  </a>
+  
+  <!-- MySQL Badge -->
+  <a href="https://www.mysql.com/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  </a>
+  
+  <!-- PHP Badge -->
+  <a href="https://www.php.net/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  </a>
+  
+  <!-- HTML5 Badge -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  </a>
+  
+  <!-- CSS Badge -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  </a>
+  
+  <!-- JavaScript Badge -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  </a>
+  
+  <!-- Dribbble Badge -->
+  <a href="https://dribbble.com/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble">
+  </a>
+  
+  <!-- Figma Badge -->
+  <a href="https://www.figma.com/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  </a>
+  
+  <!-- Canva Badge -->
+  <a href="https://www.canva.com/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+  </a>
+  
+  <!-- Oracle Database Badge -->
+  <a href="https://www.oracle.com/database/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database">
+  </a>
+  
+  <!-- Matplotlib Badge -->
+  <a href="https://matplotlib.org/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Matplotlib-377EB8?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
+  </a>
+  
+  <!-- Flutter Badge -->
+  <a href="https://flutter.dev/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  </a>
+  
+  <!-- Dart Badge -->
+  <a href="https://dart.dev/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  </a>
+</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Khushijain5519&theme=jolly&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Khushijain5519&theme=jolly&hide_border=true)<br/>

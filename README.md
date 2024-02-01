@@ -53,22 +53,32 @@
 
 ## 🌐 Socials:
 
-<h2>🌐 Connect with Me</h2>
+<!-- Connect with Me -->
 
-<div style="display: flex; gap: 10px;">
-  <!-- GitHub Icon -->
-  <a href="https://github.com/KhushiJain5519" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/KhushiJain5519/gitsocial/a2f4fc313c44af66f332ed7628ab411455573bd0/assets/icons%20with%20padding/github.png" alt="GitHub" width="30" height="30">
-  </a>
+[![Twitter][1.1]][1]
+[![Facebook][2.1]][2]
+[![Google Plus][3.1]][3]
+[![Tumblr][4.1]][4]
+[![Dribbble][5.1]][5]
+[![GitHub][6.1]][6]
 
-  <!-- Other Social Media Icons from the forked repository -->
-  <!-- Add similar lines for other icons as needed -->
-  <!-- For example, you can use icons like LinkedIn, Twitter, Instagram, etc. -->
+<!-- Social Media Icons with Padding -->
 
-  <!-- <a href="URL_TO_OTHER_SOCIAL_MEDIA" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/KhushiJain5519/gitsocial/a2f4fc313c44af66f332ed7628ab411455573bd0/assets/icons%20with%20padding/other_icon.png" alt="Other Icon" width="30" height="30">
-  </a> -->
-</div>
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook)
+[3.1]: http://i.imgur.com/yCsTjba.png (google plus)
+[4.1]: http://i.imgur.com/YckIOms.png (tumblr)
+[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble)
+[6.1]: http://i.imgur.com/0o48UoR.png (github)
+
+<!-- Links to Your Social Media Accounts -->
+
+[1]: https://twitter.com/KHUSHIJAIN5519
+[2]: http://www.facebook.com/sednaoui
+[3]: https://plus.google.com/+CarlSednaoui
+[4]: http://carlsed.tumblr.com
+[5]: http://dribbble.com/carlsednaoui
+[6]: http://www.github.com/carlsednaoui
 
 # 💻 Tech Stack:
 

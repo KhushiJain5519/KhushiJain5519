@@ -59,10 +59,10 @@
 
 <!-- Social Media Icons with Color -->
 
-[1]: #your-instagram-url
+[1]: https://www.instagram.com/Khushijain5519/
 [2]: #your-dribbble-url
-[3]: #your-linkedin-url
-[4]: #your-twitter-url
+[3]: https://www.linkedin.com/in/khushi-jain-834844206/
+[4]: https://twitter.com/KHUSHIJAIN5519
 
 # 💻 Tech Stack:
 

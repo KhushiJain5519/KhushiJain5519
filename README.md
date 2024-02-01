@@ -56,25 +56,18 @@
 <h2>🌐 Connect with Me</h2>
 
 <div style="display: flex; gap: 10px;">
-  <!-- Instagram Icon -->
-  <a href="https://www.instagram.com/khushijain5519" target="_blank" style="text-decoration: none;">
-    <img src="https://iconduck.com/icons/svg/instagram.svg" alt="Instagram" width="30" height="30">
+  <!-- GitHub Icon -->
+  <a href="https://github.com/KhushiJain5519" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/KhushiJain5519/gitsocial/a2f4fc313c44af66f332ed7628ab411455573bd0/assets/icons%20with%20padding/github.png" alt="GitHub" width="30" height="30">
   </a>
 
-  <!-- Twitter (X) Icon -->
-  <a href="https://twitter.com/KHUSHIJAIN5519" target="_blank" style="text-decoration: none;">
-    <img src="https://iconduck.com/icons/svg/twitter-x.svg" alt="Twitter" width="30" height="30">
-  </a>
+  <!-- Other Social Media Icons from the forked repository -->
+  <!-- Add similar lines for other icons as needed -->
+  <!-- For example, you can use icons like LinkedIn, Twitter, Instagram, etc. -->
 
-  <!-- LeetCode Icon -->
-  <a href="https://leetcode.com/Khushi_jain_2001" target="_blank" style="text-decoration: none;">
-    <img src="https://iconduck.com/icons/svg/leetcode.svg" alt="LeetCode" width="30" height="30">
-  </a>
-
-  <!-- LinkedIn Icon -->
-  <a href="https://www.linkedin.com/in/khushi-jain-834844206" target="_blank" style="text-decoration: none;">
-    <img src="https://iconduck.com/icons/svg/linkedin.svg" alt="LinkedIn" width="30" height="30">
-  </a>
+  <!-- <a href="URL_TO_OTHER_SOCIAL_MEDIA" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/KhushiJain5519/gitsocial/a2f4fc313c44af66f332ed7628ab411455573bd0/assets/icons%20with%20padding/other_icon.png" alt="Other Icon" width="30" height="30">
+  </a> -->
 </div>
 
 # 💻 Tech Stack:

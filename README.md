@@ -126,9 +126,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Khushijain5519&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-# Twitter
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Khushijain5519)](https://github.com/gazf/github-readme-twitter)
-
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>

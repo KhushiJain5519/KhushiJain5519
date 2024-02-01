@@ -1,5 +1,54 @@
-# 💫 About Me:
-# Hi there! 👋 I'm Khushi Jain<br><br>## About Me<br><br>I am a passionate Computer Science student, currently pursuing my Bachelor's degree, and set to graduate in June 2024.<br><br>## 🔧 Skills<br><br>- Programming Languages: C++, Dart<br>- Technologies: Flutter, HTML, CSS, JavaScript, MySQL, PHP<br><br>## 🚀 Projects<br><br>- [Flutter App]: Currently working on a Flutter application, details and link to be updated soon.<br>- [Web Development Project]: Brief description and link to your web development project.<br><br>## 🌱 Learning<br><br>Currently exploring advanced Data Structures and Algorithms and honing my application development skills with Flutter.<br><br>## 📚 Education<br><br>- Bachelor of Technology in Computer Science, Prestige Institute of Engineering Management and Research, Graduating in June 2024.<br><br>## 🧠 Computer Science Fundamentals<br><br>- Operating Systems<br>- Computer Architecture<br>- Database Management Systems<br><br>## 💼 Looking for Opportunities<br><br>Actively seeking job opportunities in software development.<br><br>## 🏆 LeetCode Profile<br><br>Check out my problem-solving skills on [LeetCode](https://leetcode.com/Khushi_jain_2001).<br><br>## 📬 Connect<br><br>- Email: [Khushi.jain.222001@gmail.com](mailto:Khushi.jain.222001@gmail.com)<br>- LinkedIn: [Khushi Jain](https://www.linkedin.com/in/khushi-jain-834844206)<br><br>## 🌐 GitHub Stats<br><br>![Khushi's GitHub Stats](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)<br><br>Feel free to reach out for collaboration or job opportunities! 🚀<br>
+<h2>Hi there! 👋 I'm Khushi Jain</h2>
+
+<h2>About Me</h2>
+
+<p>I am a passionate Computer Science student, currently pursuing my Bachelor's degree, and set to graduate in June 2024.</p>
+
+<h2>🔧 Skills</h2>
+
+<ul>
+  <li>Programming Languages: C++, Dart</li>
+  <li>Technologies: Flutter, HTML, CSS, JavaScript, MySQL, PHP</li>
+</ul>
+
+<h2>🚀 Projects</h2>
+
+<ul>
+  <li><a href="#">Flutter App</a>: Currently working on a Flutter application, details and link to be updated soon.</li>
+  <li><a href="#">Web Development Project</a>: Brief description and link to your web development project.</li>
+</ul>
+
+<h2>🌱 Learning</h2>
+
+<p>Currently exploring advanced Data Structures and Algorithms and honing my application development skills with Flutter.</p>
+
+<h2>📚 Education</h2>
+
+<p>Bachelor of Technology in Computer Science, Prestige Institute of Engineering Management and Research, Graduating in June 2024.</p>
+
+<h2>🧠 Computer Science Fundamentals</h2>
+
+<ul>
+  <li>Operating Systems</li>
+  <li>Computer Architecture</li>
+  <li>Database Management Systems</li>
+</ul>
+
+<h2>💼 Looking for Opportunities</h2>
+
+<p>Actively seeking job opportunities in software development.</p>
+
+<h2>🏆 LeetCode Profile</h2>
+
+<p>Check out my problem-solving skills on <a href="https://leetcode.com/Khushi_jain_2001">LeetCode</a>.</p>
+
+<h2>📬 Connect</h2>
+
+<ul>
+  <li>Email: <a href="mailto:Khushi.jain.222001@gmail.com">Khushi.jain.222001@gmail.com</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/khushi-jain-834844206">Khushi Jain</a></li>
+</ul>
+
 
 
 ## 🌐 Socials:

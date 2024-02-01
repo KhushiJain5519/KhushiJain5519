@@ -52,17 +52,19 @@
 ## 🌐 Socials:
 <!-- Connect with Me -->
 
+<!-- Connect with Me -->
+
 [![Instagram][1.1]][1]
 [![Dribbble][2.1]][2]
 [![LinkedIn][3.1]][3]
 [![Twitter][4.1]][4]
 
-<!-- Social Media Icons with Color (Reduced Size) -->
+<!-- Social Media Icons with Color -->
 
-[1.1]: https://raw.githubusercontent.com/KhushiJain5519/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Instagram.png =20x20 (Instagram)
-[2.1]: https://raw.githubusercontent.com/KhushiJain5519/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Dribbble.png =20x20 (Dribbble)
-[3.1]: https://raw.githubusercontent.com/KhushiJain5519/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/LinkedIN.png =20x20 (LinkedIn)
-[4.1]: https://raw.githubusercontent.com/KhushiJain5519/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Twitter.png =20x20 (Twitter)
+[1.1]: https://raw.githubusercontent.com/KhushiJain5519/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Instagram.png (Instagram)
+[2.1]: https://raw.githubusercontent.com/KhushiJain5519/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Dribbble.png (Dribbble)
+[3.1]: https://raw.githubusercontent.com/KhushiJain5519/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/LinkedIN.png (LinkedIn)
+[4.1]: https://raw.githubusercontent.com/KhushiJain5519/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Twitter.png (Twitter)
 
 <!-- Links to Your Social Media Accounts -->
 

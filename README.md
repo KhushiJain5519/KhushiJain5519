@@ -115,7 +115,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Khushijain5519&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
+<h2> Spotify </h2>
 [![Taylor Swift on Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+
 
 
 ### ✍️ Random Dev Quote
@@ -123,6 +125,10 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Khushijain5519&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+<h2>Twitter</h2>
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Khushijain5519)](https://github.com/gazf/github-readme-twitter)
+
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>

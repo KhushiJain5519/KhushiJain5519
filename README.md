@@ -55,31 +55,24 @@
 
 <!-- Connect with Me -->
 
-[![Twitter][1.1]][1]
-[![Facebook][2.1]][2]
-[![Google Plus][3.1]][3]
-[![Tumblr][4.1]][4]
-[![Dribbble][5.1]][5]
-[![GitHub][6.1]][6]
+[![Instagram][1.1]][1]
+[![Dribbble][2.1]][2]
+[![LinkedIn][3.1]][3]
+[![Twitter][4.1]][4]
 
-<!-- Social Media Icons with Padding and White Background -->
+<!-- Social Media Icons with Color -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png?style=for-the-badge&color=white (twitter)
-[2.1]: http://i.imgur.com/P3YfQoD.png?style=for-the-badge&color=white (facebook)
-[3.1]: http://i.imgur.com/yCsTjba.png?style=for-the-badge&color=white (google plus)
-[4.1]: http://i.imgur.com/YckIOms.png?style=for-the-badge&color=white (tumblr)
-[5.1]: http://i.imgur.com/1AGmwO3.png?style=for-the-badge&color=white (dribbble)
-[6.1]: http://i.imgur.com/0o48UoR.png?style=for-the-badge&color=white (github)
+[1.1]: https://raw.githubusercontent.com/YourGitHubUsername/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Instagram.png (Instagram)
+[2.1]: https://raw.githubusercontent.com/YourGitHubUsername/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Dribbble.png (Dribbble)
+[3.1]: https://raw.githubusercontent.com/YourGitHubUsername/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/LinkedIn.png (LinkedIn)
+[4.1]: https://raw.githubusercontent.com/YourGitHubUsername/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Twitter.png (Twitter)
 
 <!-- Links to Your Social Media Accounts -->
 
-[1]: https://twitter.com/KHUSHIJAIN5519
-[2]: http://www.facebook.com/sednaoui
-[3]: https://plus.google.com/+CarlSednaoui
-[4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
-
+[1]: #your-instagram-url
+[2]: #your-dribbble-url
+[3]: #your-linkedin-url
+[4]: #your-twitter-url
 
 # 💻 Tech Stack:
 

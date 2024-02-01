@@ -1,8 +1,6 @@
-<h2>Hi there! 👋 I'm Khushi Jain</h2>
-
 ![Banner](https://raw.githubusercontent.com/KhushiJain5519/Virtual-Piano-Project/bbac573c29c37b3583caabdbc8738fcc35f461bb/banner.png)
 
-
+<h2>Hi there! 👋 I'm Khushi Jain</h2>
 <h2>About Me</h2>
 
 <p>I am a passionate Computer Science student, currently pursuing my Bachelor's degree, and set to graduate in June 2024.</p>

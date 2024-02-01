@@ -62,7 +62,7 @@
 [![Dribbble][5.1]][5]
 [![GitHub][6.1]][6]
 
-<!-- Social Media Icons with Padding -->
+<!-- Social Media Icons with Padding and Dark Background -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook)

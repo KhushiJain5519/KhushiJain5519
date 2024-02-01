@@ -42,6 +42,9 @@
 
 <p>Check out my problem-solving skills on <a href="https://leetcode.com/Khushi_jain_2001">LeetCode</a>.</p>
 
+[![Khushi Jain's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Khushi_jain_2001)](https://leetcode.com/Khushi_jain_2001/)
+
+
 <h2>📬 Connect</h2>
 
 <ul>

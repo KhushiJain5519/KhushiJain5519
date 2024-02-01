@@ -64,12 +64,12 @@
 
 <!-- Social Media Icons with Padding and White Background -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble)
-[6.1]: http://i.imgur.com/0o48UoR.png (github)
+[1.1]: http://i.imgur.com/tXSoThF.png?style=for-the-badge&color=white (twitter)
+[2.1]: http://i.imgur.com/P3YfQoD.png?style=for-the-badge&color=white (facebook)
+[3.1]: http://i.imgur.com/yCsTjba.png?style=for-the-badge&color=white (google plus)
+[4.1]: http://i.imgur.com/YckIOms.png?style=for-the-badge&color=white (tumblr)
+[5.1]: http://i.imgur.com/1AGmwO3.png?style=for-the-badge&color=white (dribbble)
+[6.1]: http://i.imgur.com/0o48UoR.png?style=for-the-badge&color=white (github)
 
 <!-- Links to Your Social Media Accounts -->
 
@@ -79,6 +79,7 @@
 [4]: http://carlsed.tumblr.com
 [5]: http://dribbble.com/carlsednaoui
 [6]: http://www.github.com/carlsednaoui
+
 
 # 💻 Tech Stack:
 
